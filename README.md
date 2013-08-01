@@ -5,6 +5,8 @@ SpringboardCollectionViewLayout
 * This layout is intended for UICollectionViews with horizontal paging enabled
 * Each section of the UICollectionView begins on a new page
 
+### Example
+
 ```objective-c
 #import "SpringboardCollectionViewLayout.h"
 
