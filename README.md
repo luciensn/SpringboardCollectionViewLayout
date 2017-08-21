@@ -15,6 +15,6 @@ UICollectionView *collectionView = [[UICollectionView alloc] initWithFrame:someF
 	collectionViewLayout:layout];
 ```
 
-<p align="center">
+<p>
 	<img src="https://github.com/luciensn/SpringboardCollectionViewLayout/blob/master/springboard-layout.png" alt="SpringboardCollectionViewLayout" />
 </p>
