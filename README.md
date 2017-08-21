@@ -1,7 +1,7 @@
 SpringboardCollectionViewLayout
 ===============================
 
-* A subclass of UICollectionViewLayout that mimics the Springboard four-column layout
+* A subclass of UICollectionViewLayout that mimics the Springboard four-column layout (iOS home screen)
 * This layout is intended for UICollectionViews with horizontal paging enabled
 * Each section of the UICollectionView begins on a new page
 
